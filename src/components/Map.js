@@ -7,7 +7,7 @@ import EarthquakeMarker from './EarthquakeMarker'
 import FloodMarker from './FloodMarker'
 import LocationInfoBox from './LocationInfoBox'
 
-const mapKey = 'AIzaSyDyqnCswGp_qy2E9Ij4ebEfTt1CQKTOweo'
+const mapKey = '';
 
 const Map = ({eventData, center, zoom}) => {
     
